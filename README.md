@@ -1,2 +1,1 @@
-# Stopwatch
-Stopwatch app built with flutter 
+Sample stopwatch app built in Flutter.
